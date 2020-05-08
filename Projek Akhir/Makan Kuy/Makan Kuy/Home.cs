@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Makan_Kuy
 {
-    public partial class Home : Form
+    public partial class Home : Form1
     {
        
         private void button1_Click(object sender, EventArgs e)
